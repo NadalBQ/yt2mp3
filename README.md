@@ -8,9 +8,9 @@
 
 Al ejecutar el programa, se inicia una sesión interactiva en la consola en la que se te solicitará:
 
-1. **Ruta del directorio que contiene el archivo de enlaces** (por ejemplo: `C:\Users\TuNombre\Documentos`).
+1. **Ruta del directorio que contiene el archivo de enlaces** (por ejemplo: `C:/Users/TuNombre/Documentos`).
 2. **Nombre del archivo que contiene los enlaces** (por ejemplo: `enlaces.txt`).
-3. **Ruta del directorio de descarga** (por ejemplo: `C:\Users\TuNombre\Música\YTMP3`).
+3. **Ruta del directorio de descarga** (por ejemplo: `C:/Users/TuNombre/Música/YTMP3`).
 
 Una vez proporcionados estos datos, el programa:
 
