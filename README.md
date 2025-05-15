@@ -45,8 +45,8 @@ Agradecimientos al equipo de desarrollo de `yt-dlp` por su trabajo excepcional.
 
 Asegúrate de que tu archivo de texto contenga **un enlace de YouTube por línea**, por ejemplo:
 
-https://www.youtube.com/watch?v=abc123
-https://www.youtube.com/watch?v=xyz456
+- [https://www.youtube.com/watch?v=abc123](https://www.youtube.com/watch?v=abc123)
+- [https://www.youtube.com/watch?v=xyz456](https://www.youtube.com/watch?v=xyz456)
 
 ---
 
